@@ -1,16 +1,60 @@
-### Hi there 👋
+# меня зовут Берсенёв Илья
+в данный момент я нахожусь в поиске работы ***fullstack***/***backend***/***frontend*** разработчика. Также я хотел бы поработать ml инженером. В данный момент я изучаю всё что связано с машинным обучением.
 
-<!--
-**ressiwage/ressiwage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+вы можете увидеть моё резюме в данном репозитории под названием Берсенёв Илья.pdf
 
-Here are some ideas to get you started:
+Для связи пишите мне на почту: ressiwage@ya.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+технологии, с которыми я работал:
+- backend
+  - субд
+    - MySql
+    - Postgresql
+    - GoogleBigquery
+    - TinyDB
+    - sqlite
+  - библиотеки
+    - sqlalchemy
+    - pydantic
+    - werkzeug
+    - waitress
+    - jinja2
+    - mysql-connector
+    - pytest
+    - google api (sheets, docs, forms)
+    - pyjwt
+    - ijson
+    - typing
+    - ...
+  - **Flask**
+  - **FastApi**
+  - django
+  - **node.js**
+- frontend
+  - gsap
+  - bootstrap
+  - tailwind
+  - three.js
+  - arcgis
+  - ckeditor
+  - **nuxt**
+  - **react**
+  - yarn
+- other
+  - pandas
+  - matplotlib
+  - seaborn
+  - shapely
+  - geopandas
+  - scikit
+  - python.stats
+  - scrapy
+  - selenium
+  - tg bot api
+  - osmnx
+  - threading
+  - beautifulsoup
+  - ...
+
+# о аккаунте
+в данном аккаунте немало проектов, обычно они имеют пометку LEARN - учебные и WORK - коммерческие/рабочие (большинство приватные). если метки нет, то это репозиторий сугубо для личного пользования, в котором код максимально грязный.
