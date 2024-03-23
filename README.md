@@ -12,4 +12,3 @@ t.me/***ressiwage***
 ```python
 f"{'LEARN'|'WORK'}-{name}-{int(difficulty_level)}"
 ```
-на данный момент старые проекты до конца не проименованы 
