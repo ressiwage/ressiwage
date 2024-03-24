@@ -10,5 +10,5 @@ t.me/***ressiwage***
 
 проекты именуются в соответствии с нотацией: 
 ```python
-f"{'LEARN'|'WORK'}-{name}-{int(difficulty_level)}"
+f"{'LEARN' or 'WORK'}-{str(name)}-{int(difficulty_level)}"
 ```
