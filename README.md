@@ -11,3 +11,5 @@ t.me/***ressiwage***
 ```python
 f"{'LEARN' or 'WORK'}-{str(name)}-{int(difficulty)}"
 ```
+
+недавно [начал учить си](https://github.com/ressiwage/LEARN-clang-stepik-course-5)
