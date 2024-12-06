@@ -15,3 +15,4 @@ f"{'LEARN' or 'WORK'}-{str(name)}-{int(difficulty)}"
 самые интересные проекты -- см. в закреплённых.
 
 недавно [начал учить си](https://github.com/ressiwage/LEARN-clang-stepik-course-5).
+потом выполнил [домашнее задание](https://github.com/ressiwage/LEARN-sysprog-ms-5) по курсу для которого учил си
