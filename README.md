@@ -10,8 +10,9 @@ t.me/***ressiwage***
 
 проекты именуются в соответствии с нотацией: 
 ```python
-f"{'LEARN' or 'WORK'}-{str(name)}-{int(difficulty)}"
+f"{'LEARN' or 'WORK' or 'CONT'}-{str(name)}-{int(difficulty)}"
 ```
+где LEARN -- учебные проекты, WORK -- рабочие, CONT -- работа над опенсорсом, name -- название проекта, difficulty -- сложность 
 
 самые интересные проекты -- см. в закреплённых.
 
