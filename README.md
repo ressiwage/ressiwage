@@ -1,9 +1,8 @@
-***ressiwage***@ya.ru
-
-vk.com/***ressiwage***
-
-t.me/***ressiwage***
-
+## контакты
+|  TG         	| MAIL            	| VK         	|
+|----------------------	|-----------------	|------------	|
+| [@ressiwage](https://t.me/ressiwage) 	| [ressiwage@ya.ru](mailto:ressiwage@ya.ru) 	| [@ressiwage](https://vk.com/ressiwage) 	|
+___
 я работал с ассемблером, веб разработкой, машинным обучением, bi анализом данных, разработкой игр.
 хожу в спортзал.
 
