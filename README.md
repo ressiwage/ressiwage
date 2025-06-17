@@ -19,7 +19,7 @@ f"{'LEARN' or 'WORK' or 'CONT'}-{str(name)}-{int(difficulty)}"
 недавно [начал учить си](https://github.com/ressiwage/LEARN-clang-stepik-course-5).
 потом выполнил домашние задания ([1](https://github.com/ressiwage/LEARN-sysprog-ms-5), [2](https://github.com/ressiwage/LEARN-sysprog-bash-5) ).
 
-#### сокращенный перечень технологий с которыми я работал
+#### сокращенный перечень технологий с которыми я работал (лучше с vpn)
 <p align="left">
  <a href="https://babeljs.io/" rel="noreferrer" target="_blank" title="babel">
   <img alt="babel" height="25" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="25"/>
