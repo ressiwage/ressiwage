@@ -1,7 +1,7 @@
 ## контакты
 |  TG         	| MAIL            	| VK         	|
 |----------------------	|-----------------	|------------	|
-| [@ressiwage](https://t.me/ressiwage)<img height=1 width=294> 	| [ressiwage@ya.ru](mailto:ressiwage@ya.ru)<img height=1 width=294> 	| [@ressiwage](https://vk.com/ressiwage)<img height=1 width=294> 	|
+| [@ressiwage](https://t.me/ressiwage)<img height=1 width=200> 	| [ressiwage@ya.ru](mailto:ressiwage@ya.ru)<img height=1 width=200> 	| [@ressiwage](https://vk.com/ressiwage)<img height=1 width=200> 	|
 ___
 я работал с ассемблером, веб разработкой, машинным обучением, bi анализом данных, разработкой игр.
 хожу в спортзал.
